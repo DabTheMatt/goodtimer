@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/goodtimer/static/css/main.5f361e03.chunk.css",
+    "main.js": "/goodtimer/static/js/main.f534a322.chunk.js",
+    "main.js.map": "/goodtimer/static/js/main.f534a322.chunk.js.map",
+    "runtime-main.js": "/goodtimer/static/js/runtime-main.a9009dd1.js",
+    "runtime-main.js.map": "/goodtimer/static/js/runtime-main.a9009dd1.js.map",
+    "static/js/2.8cfe1b50.chunk.js": "/goodtimer/static/js/2.8cfe1b50.chunk.js",
+    "static/js/2.8cfe1b50.chunk.js.map": "/goodtimer/static/js/2.8cfe1b50.chunk.js.map",
+    "index.html": "/goodtimer/index.html",
+    "precache-manifest.0c6faf4afbe0b210481e44d7e0efed53.js": "/goodtimer/precache-manifest.0c6faf4afbe0b210481e44d7e0efed53.js",
+    "service-worker.js": "/goodtimer/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/goodtimer/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8cfe1b50.chunk.js.LICENSE.txt": "/goodtimer/static/js/2.8cfe1b50.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/goodtimer/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9009dd1.js",
+    "static/js/2.8cfe1b50.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f534a322.chunk.js"
+  ]
+}
